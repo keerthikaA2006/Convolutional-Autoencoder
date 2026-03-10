@@ -143,7 +143,7 @@ def visualize_denoising(model, loader, num_images=10):
 ### Original vs Noisy Vs Reconstructed Image
 
 
-<img width="1741" height="723" alt="Screenshot 2026-03-10 155535" src="https://github.com/user-attachments/assets/a50907ac-0b81-4446-bdeb-717f3c156f0e" />
+<img width="1703" height="804" alt="Screenshot 2026-03-10 162639" src="https://github.com/user-attachments/assets/d7e5e788-a94d-42e2-8e1e-22633526c3c5" />
 
 
 ## RESULT
